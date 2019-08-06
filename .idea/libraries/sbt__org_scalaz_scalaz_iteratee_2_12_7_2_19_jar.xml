@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.scalaz:scalaz-iteratee_2.12:7.2.19:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-iteratee_2.12/bundles/scalaz-iteratee_2.12-7.2.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-iteratee_2.12/srcs/scalaz-iteratee_2.12-7.2.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
